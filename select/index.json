@@ -1,0 +1,216 @@
+{
+  "version": 1,
+  "base_track": "ごはんはおかず",
+  "base_artist": "放課後ティータイム（平沢唯·秋山澪·田井中律·琴吹紬·中野梓）",
+  "createdAt": "2026-02-11T16:12:33.127484Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ごはんはおかず(映画「けいおん!」Mix)",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/01_ごはんはおかず(映画「けいおん!」Mix)_放課後ティータイム.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ごはんはおかず [Studio Mix]",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/02_ごはんはおかず_[Studio_Mix]_放課後ティータイム.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ごはんはおかず",
+      "artist": "HO-KAGO TEA TIME",
+      "has_synced": true,
+      "path": "select/03_ごはんはおかず_HO-KAGO_TEA_TIME.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ごはんはおかず (Instrumental【-Keyboard】)",
+      "artist": "放課後ティータイム",
+      "has_synced": false,
+      "path": "select/04_ごはんはおかず_(Instrumental【-Keyboard】)_放課後ティータイム.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ごはんはおかず",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/05_ごはんはおかず_放課後ティータイム.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ごはんはおかず",
+      "artist": "HO‐KAGO TEA TIME",
+      "has_synced": true,
+      "path": "select/06_ごはんはおかず_HO‐KAGO_TEA_TIME.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ごはんはおかず [Studio Mix]",
+      "artist": "放課後ティータイム (豊崎愛生, 日笠陽子, 佐藤聡美, 寿美菜子, 竹達彩奈)",
+      "has_synced": true,
+      "path": "select/07_ごはんはおかず_[Studio_Mix]_放課後ティータイム_(豊崎愛生,_日笠陽子,_佐藤聡美,_寿美菜子,_竹達彩奈).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ごはんはおかず",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/08_ごはんはおかず_放課後ティータイム.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ごはんはおかず",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/09_ごはんはおかず_放課後ティータイム.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ごはんはおかず (#23『放課後!』Mix)",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/10_ごはんはおかず_(_23『放課後!』Mix)_放課後ティータイム.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ごはんはおかず (Instrumental【-Bass】)",
+      "artist": "放課後ティータイム",
+      "has_synced": false,
+      "path": "select/11_ごはんはおかず_(Instrumental【-Bass】)_放課後ティータイム.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ごはんはおかず (Instrumental【−Keyboard】)",
+      "artist": "放課後ティータイム",
+      "has_synced": false,
+      "path": "select/12_ごはんはおかず_(Instrumental【−Keyboard】)_放課後ティータイム.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ごはんはおかず (Instrumental【−Bass】)",
+      "artist": "放課後ティータイム",
+      "has_synced": false,
+      "path": "select/13_ごはんはおかず_(Instrumental【−Bass】)_放課後ティータイム.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ごはんはおかず",
+      "artist": "放課後ティータイム",
+      "has_synced": false,
+      "path": "select/14_ごはんはおかず_放課後ティータイム.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ごはんはおかず",
+      "artist": "Houkago Teatime",
+      "has_synced": true,
+      "path": "select/15_ごはんはおかず_Houkago_Teatime.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ごはんはおかず『Studio Mix』(Instrumental)",
+      "artist": "放課後ティータイム",
+      "has_synced": false,
+      "path": "select/16_ごはんはおかず『Studio_Mix』(Instrumental)_放課後ティータイム.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ごはんはおかず",
+      "artist": "放課後ティータイム(平沢唯(CV:豊崎愛生)・秋山澪(CV:日笠陽子)・田井中律(CV:佐藤聡美)・琴吹紬(CV:寿美菜子)・中野梓(CV:竹達彩奈))",
+      "has_synced": false,
+      "path": "select/pl_01_ごはんはおかず_放課後ティータイム(平沢唯(CV_豊崎愛生)・秋山澪(CV_日笠陽子)・田井中律(CV_佐藤聡美)・琴吹紬(CV_寿美菜子)・中野梓(CV_竹達彩奈)).txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ごはんはおかず",
+      "artist": "放課後ティータイム(平沢唯(CV:豊崎愛生)・秋山澪(CV:日笠陽子)・田井中律(CV:佐藤聡美)・琴吹紬(CV:寿美菜子)・中野梓(CV:竹達彩奈))",
+      "has_synced": false,
+      "path": "select/pl_02_ごはんはおかず_放課後ティータイム(平沢唯(CV_豊崎愛生)・秋山澪(CV_日笠陽子)・田井中律(CV_佐藤聡美)・琴吹紬(CV_寿美菜子)・中野梓(CV_竹達彩奈)).txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ごはんはおかず",
+      "artist": "放課後ティータイム(平沢唯(CV:豊崎愛生)・秋山澪(CV:日笠陽子)・田井中律(CV:佐藤聡美)・琴吹紬(CV:寿美菜子)・中野梓(CV:竹達彩奈))",
+      "has_synced": false,
+      "path": "select/pl_03_ごはんはおかず_放課後ティータイム(平沢唯(CV_豊崎愛生)・秋山澪(CV_日笠陽子)・田井中律(CV_佐藤聡美)・琴吹紬(CV_寿美菜子)・中野梓(CV_竹達彩奈)).txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ごはんはおかず",
+      "artist": "放課後ティータイム(平沢唯(CV:豊崎愛生)・秋山澪(CV:日笠陽子)・田井中律(CV:佐藤聡美)・琴吹紬(CV:寿美菜子)・中野梓(CV:竹達彩奈))",
+      "has_synced": false,
+      "path": "select/pl_04_ごはんはおかず_放課後ティータイム(平沢唯(CV_豊崎愛生)・秋山澪(CV_日笠陽子)・田井中律(CV_佐藤聡美)・琴吹紬(CV_寿美菜子)・中野梓(CV_竹達彩奈)).txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ごはんはおかず",
+      "artist": "放課後ティータイム(平沢唯(CV:豊崎愛生)・秋山澪(CV:日笠陽子)・田井中律(CV:佐藤聡美)・琴吹紬(CV:寿美菜子)・中野梓(CV:竹達彩奈))",
+      "has_synced": false,
+      "path": "select/pl_05_ごはんはおかず_放課後ティータイム(平沢唯(CV_豊崎愛生)・秋山澪(CV_日笠陽子)・田井中律(CV_佐藤聡美)・琴吹紬(CV_寿美菜子)・中野梓(CV_竹達彩奈)).txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "ごはんはおかず",
+      "artist": "放課後ティータイム(平沢唯(CV:豊崎愛生)・秋山澪(CV:日笠陽子)・田井中律(CV:佐藤聡美)・琴吹紬(CV:寿美菜子)・中野梓(CV:竹達彩奈))",
+      "has_synced": false,
+      "path": "select/pl_06_ごはんはおかず_放課後ティータイム(平沢唯(CV_豊崎愛生)・秋山澪(CV_日笠陽子)・田井中律(CV_佐藤聡美)・琴吹紬(CV_寿美菜子)・中野梓(CV_竹達彩奈)).txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "ごはんはおかず",
+      "artist": "放課後ティータイム(平沢唯(CV:豊崎愛生)・秋山澪(CV:日笠陽子)・田井中律(CV:佐藤聡美)・琴吹紬(CV:寿美菜子)・中野梓(CV:竹達彩奈))",
+      "has_synced": false,
+      "path": "select/pl_07_ごはんはおかず_放課後ティータイム(平沢唯(CV_豊崎愛生)・秋山澪(CV_日笠陽子)・田井中律(CV_佐藤聡美)・琴吹紬(CV_寿美菜子)・中野梓(CV_竹達彩奈)).txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "ごはんはおかず",
+      "artist": "放課後ティータイム(平沢唯(CV:豊崎愛生)・秋山澪(CV:日笠陽子)・田井中律(CV:佐藤聡美)・琴吹紬(CV:寿美菜子)・中野梓(CV:竹達彩奈))",
+      "has_synced": false,
+      "path": "select/pl_08_ごはんはおかず_放課後ティータイム(平沢唯(CV_豊崎愛生)・秋山澪(CV_日笠陽子)・田井中律(CV_佐藤聡美)・琴吹紬(CV_寿美菜子)・中野梓(CV_竹達彩奈)).txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "ごはんはおかず(Studio Mix)",
+      "artist": "放課後ティータイム(平沢唯(CV:豊崎愛生)・秋山澪(CV:日笠陽子)・田井中律(CV:佐藤聡美)・琴吹紬(CV:寿美菜子)・中野梓(CV:竹達彩奈))",
+      "has_synced": false,
+      "path": "select/pl_09_ごはんはおかず(Studio_Mix)_放課後ティータイム(平沢唯(CV_豊崎愛生)・秋山澪(CV_日笠陽子)・田井中律(CV_佐藤聡美)・琴吹紬(CV_寿美菜子)・中野梓(CV_竹達彩奈)).txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "ごはんはおかず(Cassette Mix)",
+      "artist": "放課後ティータイム(平沢唯(CV:豊崎愛生)・秋山澪(CV:日笠陽子)・田井中律(CV:佐藤聡美)・琴吹紬(CV:寿美菜子)・中野梓(CV:竹達彩奈))",
+      "has_synced": false,
+      "path": "select/pl_10_ごはんはおかず(Cassette_Mix)_放課後ティータイム(平沢唯(CV_豊崎愛生)・秋山澪(CV_日笠陽子)・田井中律(CV_佐藤聡美)・琴吹紬(CV_寿美菜子)・中野梓(CV_竹達彩奈)).txt"
+    }
+  ]
+}
